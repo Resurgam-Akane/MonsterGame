@@ -1,0 +1,9 @@
+﻿  GUIGame.cpp
+j:\面向对象程序设计\monstergame\sourcefile\guigame.cpp(298): warning C4390: ';': empty controlled statement found; is this the intent?
+j:\面向对象程序设计\monstergame\sourcefile\guigame.cpp(302): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  Compiling...
+  mainclient.cpp
+  Generating Code...
+  MonsterGameClient.vcxproj -> J:\面向对象程序设计\MonsterGame\Debug\MonsterGameClient.exe
+  MonsterGameClient.vcxproj -> J:\面向对象程序设计\MonsterGame\Debug\MonsterGameClient.pdb (Full PDB)

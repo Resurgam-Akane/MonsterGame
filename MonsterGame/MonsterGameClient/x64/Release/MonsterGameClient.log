@@ -1,0 +1,145 @@
+﻿  GUIGame.cpp
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(117): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(88): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(148): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(152): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(154): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(155): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(161): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(162): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(165): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(166): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(169): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(176): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(177): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(178): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(179): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(180): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(182): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(184): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(224): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(227): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(236): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(242): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(245): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(251): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(252): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(254): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(255): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(256): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(257): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(258): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(259): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(260): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(261): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(262): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(297): warning C4390: ';': empty controlled statement found; is this the intent?
+..\SourceFile\GUIGame.cpp(303): warning C4390: ';': empty controlled statement found; is this the intent?
+..\SourceFile\GUIGame.cpp(313): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(369): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(370): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(371): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(377): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(378): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(379): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(385): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(386): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(387): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(393): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(394): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(395): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(405): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(406): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(412): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(413): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(414): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(420): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(421): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(422): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(428): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(429): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(430): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(442): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(445): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(448): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(451): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(454): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(457): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(460): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(463): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(466): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(507): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(512): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(513): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(514): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(520): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(523): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(526): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(529): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(535): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(536): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(537): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(538): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(539): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(542): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(547): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(548): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(587): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(591): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(592): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(593): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(601): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(604): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(607): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(610): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(616): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(617): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(618): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(619): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(620): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(621): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(655): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\SourceFile\GUIGame.cpp(660): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(664): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(666): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(668): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(673): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(676): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(679): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(682): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(685): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(688): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(691): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(694): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+..\SourceFile\GUIGame.cpp(697): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\memory(1630): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ..\SourceFile\GUIGame.cpp(94): note: see reference to function template instantiation 'std::unique_ptr<EggAche::Canvas,std::default_delete<_Ty>> std::make_unique<EggAche::Canvas,std::size_t,std::size_t,std::size_t,std::size_t>(size_t &&,size_t &&,size_t &&,size_t &&)' being compiled
+          with
+          [
+              _Ty=EggAche::Canvas
+          ]
+  MsgSocketClient.cpp
+..\SourceFile\MsgSocketClient.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  mainclient.cpp
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(117): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+j:\面向对象程序设计\monstergame\sourcefile\GUIGame.h(124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  5 of 3460 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MonsterGameClient.vcxproj -> J:\面向对象程序设计\MonsterGame\x64\Release\MonsterGameClient.exe
+  MonsterGameClient.vcxproj -> J:\面向对象程序设计\MonsterGame\x64\Release\MonsterGameClient.pdb (Full PDB)
